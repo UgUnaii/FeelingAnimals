@@ -34,7 +34,7 @@ public class MainCommand implements CommandExecutor {
 
         } else if (args[0].equalsIgnoreCase("version")) { // Command to display the plugin version.
           Message
-              .sendConsole(getMessage("display-version"));
+              .sendCommand(sender, getMessage("display-version"));
 
         } else if (args[0].equalsIgnoreCase("help")) { // Command to display the help manu.
           Message.sendCommand(sender, getMessage("display-help"));
