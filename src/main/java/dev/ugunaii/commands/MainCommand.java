@@ -46,7 +46,7 @@ public class MainCommand implements CommandExecutor {
       Message
           .sendCommand(sender, getMessage("display-version"));
 
-    } else if (args[0].equalsIgnoreCase("help")) { // Command to display the help manu.
+    } else if (args[0].equalsIgnoreCase("help")) { // Command to display the help menu.
       Message.sendCommand(sender, getMessage("display-help"));
 
     } else { // If the argument is not valid.
