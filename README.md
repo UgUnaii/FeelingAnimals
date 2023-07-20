@@ -7,6 +7,9 @@ Also the plugin is posted in this pages:
  - [Modrinth]()
  - [Spigot]()
 
+If you want to support me, you can do it with **Ko-Fi**  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B3NEIFJ)
+
 ## Overview  
 This plugin makes other animals flee when one is harmed.  
 It uses a fake entity that attacks the mobs in the radius to make the flee, but don't worry, it deals 0 damage. So it's safe.  
