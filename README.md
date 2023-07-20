@@ -1,5 +1,5 @@
 # Feeling Animals  
-A minecraft server plugin that enhances passive animal behaviour.
+A minecraft server plugin that enhances passive animal behavior.
 
 ## Downloads  
 You can go to the [Releases page](https://github.com/UgUnaii/FeelingAnimals/releases)  
