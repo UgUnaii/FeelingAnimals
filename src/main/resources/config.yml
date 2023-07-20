@@ -17,6 +17,7 @@ Config:
     - CHICKEN
     - PIG
     - SHEEP
+    - HORSE
 
 Messages:
   # This is the prefix that will appear in the beggining of some messages of the plugin.
