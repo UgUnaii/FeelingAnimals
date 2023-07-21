@@ -1,32 +1,38 @@
 # Feeling Animals  
 A minecraft server plugin that enhances passive animal behavior.
 
-## Downloads  
+## 📰 Overview  
+This plugin makes other animals flee when one is harmed.  
+It uses a fake entity that attacks the mobs in the radius to make them flee, but don't worry, it deals 0 damage. So it's safe.  
+
+
+## 💾 Downloads  
 You can go to the [Releases page](https://github.com/UgUnaii/FeelingAnimals/releases)  
 Also the plugin is posted in this pages:
- - [Modrinth]()
+ - [Modrinth](https://modrinth.com/plugin/feeling-animals)
  - [Spigot]()
 
 If you want to support me, you can do it with **Ko-Fi**  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B3NEIFJ)
 
-## Overview  
-This plugin makes other animals flee when one is harmed.  
-It uses a fake entity that attacks the mobs in the radius to make the flee, but don't worry, it deals 0 damage. So it's safe.  
+## 📷 Gallery  
+Here are a few images of the animals that the plugin changes. If you want to see all the images, you can go to the [Gallery page](https://github.com/UgUnaii/FeelingAnimals/tree/main#-full-gallery).  
+![Cow image](https://cdn-raw.modrinth.com/data/r7gLMvcl/images/d9303cc531b62fd2b6665c66e70993eb010e8f3c.gif)  
+![Goat image](https://cdn-raw.modrinth.com/data/r7gLMvcl/images/0e0a5968c834e172419064ba6d02772ae7409672.gif)  
 
-## Commands  
+## 🖥️ Commands  
 The main command is **/feelinganimals** but you can use **/fa** as an abbreviation.  
 Here is the list of the command thet the plugin provides.  
  - **/fa help** It displays the help menu, with all the commands.  
  - **/fa version** It displays the version of the plugin.  
  - **/fa reload** It reloads the configuration file of the plugin.  
 
-## Permissions  
+## 🔒 Permissions  
 There is only one permission node in the plugin, that makes the player capable of executing the above commands.  
 There isn't a permission to make the plugin work, it could be a good feature for the next version.  
- - **feelinganimals.commands** Is the permission node that let's the player execute all plugin commands.  
+ - **feelinganimals.commands** Is the permission node that lets the player execute all plugin commands.  
 
-## Config File
+## ⚙️ Config File
 Here is the config file for you to see.  
 ```yaml
 # Feeling Animals, by UgUnaii
@@ -48,6 +54,9 @@ Config:
     - CHICKEN
     - PIG
     - SHEEP
+    - HORSE
+    - FOX
+    - GOAT
 
 Messages:
   # This is the prefix that will appear in the beggining of some messages of the plugin.
@@ -79,6 +88,16 @@ Messages:
   - &6/fa reload &freloads the config file of the plugin."
 ```
 
-## FAQ  
+## 📷 Full Gallery  
+Here are all the images for all the mobs that the plugin currently modifies.  
+![Cow image](https://cdn-raw.modrinth.com/data/r7gLMvcl/images/d9303cc531b62fd2b6665c66e70993eb010e8f3c.gif)  
+![Chicken image](https://cdn-raw.modrinth.com/data/r7gLMvcl/images/3636af0336e37a66d948f03ba35a5e2c62ff8e05.gif)  
+![Pig image](https://cdn-raw.modrinth.com/data/r7gLMvcl/images/3b909cf20cbd53c7127128a7f002d7104dccdc9a.gif)  
+![Sheep image](https://cdn-raw.modrinth.com/data/r7gLMvcl/images/c082f2ff167da1139e2ab255bca284371eb3780f.gif)  
+![Horse image](https://cdn-raw.modrinth.com/data/r7gLMvcl/images/3e15df63e77c95a96753023e12ef648bf8ce6422.gif)  
+![Fox image](https://cdn-raw.modrinth.com/data/r7gLMvcl/images/91cd69d02b19ec5956809584c3c7bb390ef8cae5.gif)  
+![Goat image](https://cdn-raw.modrinth.com/data/r7gLMvcl/images/0e0a5968c834e172419064ba6d02772ae7409672.gif)  
+
+## ❓ FAQ  
 You can use this plugin for any server that you like.  
 You are not obligated to credit the plugin if you will use it in a video or something like that, altough you can if you want.  
