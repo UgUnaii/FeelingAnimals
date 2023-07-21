@@ -98,6 +98,6 @@ Here are all the images for all the mobs that the plugin currently modifies.
 ![Fox image](https://cdn-raw.modrinth.com/data/r7gLMvcl/images/91cd69d02b19ec5956809584c3c7bb390ef8cae5.gif)  
 ![Goat image](https://cdn-raw.modrinth.com/data/r7gLMvcl/images/0e0a5968c834e172419064ba6d02772ae7409672.gif)  
 
-## ❓ FAQ  
-You can use this plugin for any server that you like.  
-You are not obligated to credit the plugin if you will use it in a video or something like that, altough you can if you want.  
+## ❓ FAQ 
+You can use this plugin for any server that you like. 
+You are not obligated to credit the plugin if you will use it in a video or something like that, although you can if you want.
