@@ -10,7 +10,7 @@ It uses a fake entity that attacks the mobs in the radius to make them flee, but
 You can go to the [Releases page](https://github.com/UgUnaii/FeelingAnimals/releases)  
 Also the plugin is posted in this pages:
  - [Modrinth](https://modrinth.com/plugin/feeling-animals)
- - [Spigot]()
+ - [Spigot](https://www.spigotmc.org/resources/feeling-animals.111380/)
 
 If you want to support me, you can do it with **Ko-Fi**  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B3NEIFJ)
