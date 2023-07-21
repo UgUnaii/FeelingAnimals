@@ -22,7 +22,7 @@ Here are a few images of the animals that the plugin changes. If you want to see
 
 ## 🖥️ Commands  
 The main command is **/feelinganimals** but you can use **/fa** as an abbreviation.  
-Here is the list of the command thet the plugin provides.  
+Here is the list of the command that the plugin provides.  
  - **/fa help** It displays the help menu, with all the commands.  
  - **/fa version** It displays the version of the plugin.  
  - **/fa reload** It reloads the configuration file of the plugin.  
