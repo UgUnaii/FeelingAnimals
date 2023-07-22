@@ -6,7 +6,9 @@ import dev.ugunaii.commands.MainCommand;
 import dev.ugunaii.events.PunchAnimal;
 import dev.ugunaii.utils.Message;
 
-public class Main extends JavaPlugin {
+import java.util.Objects;
+
+public class FeelingAnimals extends JavaPlugin {
 
   @Override
   public void onEnable() {
@@ -36,8 +38,11 @@ public class Main extends JavaPlugin {
 
   // Call the command classes
   public void enableCommands() {
-    this.getCommand("feelinganimals").setExecutor(new MainCommand(this));
-    this.getCommand("fa").setExecutor(new MainCommand(this));
+    Objects.requireNonNull(this.getCommand("feelinganimals"))
+            .setExecutor(new MainCommand(this));
+
+    Objects.requireNonNull(this.getCommand("fa"))
+            .setExecutor(new MainCommand(this));
   }
 
   // Call the event classes

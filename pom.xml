@@ -10,11 +10,11 @@
     <name>${artifactId}</name>
     <description>This plugin makes other animals flee when one of the herd is harmed by the player.</description>
     <version>1.0.0</version>
-    <url></url>
+    <!-- <url></url> -->
 
     <properties>
         <author>${groupId}</author>
-        <mainClass>dev.ugunaii.Main</mainClass>
+        <mainClass>dev.ugunaii.FeelingAnimals</mainClass>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
@@ -33,6 +33,12 @@
             <artifactId>spigot-api</artifactId>
             <version>1.20-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.jetbrains</groupId>
+            <artifactId>annotations</artifactId>
+            <version>23.0.0</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 

@@ -6,7 +6,7 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import dev.ugunaii.Main;
+import dev.ugunaii.FeelingAnimals;
 
 public class Message {
 
@@ -14,21 +14,21 @@ public class Message {
   public static void sendPlayer(Player sender, String message) {
     // Color the message, add the prefix in the config and send it.
     sender.sendMessage(ChatColor.translateAlternateColorCodes('&',
-        JavaPlugin.getPlugin(Main.class).getConfig().getString("Messages.prefix") + "&f" + message));
+        JavaPlugin.getPlugin(FeelingAnimals.class).getConfig().getString("Messages.prefix") + "&f" + message));
   }
 
   // Void for sending messagees to the console.
   public static void sendConsole(String message) {
     // Color the message, add the prefix in the config and send it.
     Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&',
-        JavaPlugin.getPlugin(Main.class).getConfig().getString("Messages.prefix") + "&f" + message));
+        JavaPlugin.getPlugin(FeelingAnimals.class).getConfig().getString("Messages.prefix") + "&f" + message));
   }
 
   // Void for sending messages to command senders.
   public static void sendCommand(CommandSender sender, String message) {
     // Color the message, add the prefix in the config and send it.
     sender.sendMessage(ChatColor.translateAlternateColorCodes('&',
-        JavaPlugin.getPlugin(Main.class).getConfig().getString("Messages.prefix") + "&f" + message));
+        JavaPlugin.getPlugin(FeelingAnimals.class).getConfig().getString("Messages.prefix") + "&f" + message));
   }
 
 }

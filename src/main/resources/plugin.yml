@@ -1,4 +1,4 @@
-main: dev.ugunaii.Main
+main: dev.ugunaii.FeelingAnimals
 name: FeelingAnimals
 version: 1.0.0
 description: This plugin makes other animals flee when one of the herd is harmed by the player.
