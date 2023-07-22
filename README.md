@@ -10,7 +10,8 @@ It uses a fake entity that attacks the mobs in the radius to make them flee, but
 You can go to the [Releases page](https://github.com/UgUnaii/FeelingAnimals/releases)  
 Also the plugin is posted in this pages:
  - [Modrinth](https://modrinth.com/plugin/feeling-animals)
- - [Spigot]()
+ - [Spigot](https://www.spigotmc.org/resources/feeling-animals.111380/)
+ - [CurseForge](https://legacy.curseforge.com/minecraft/bukkit-plugins/feeling-animals)
 
 If you want to support me, you can do it with **Ko-Fi**  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B3NEIFJ)
@@ -22,7 +23,7 @@ Here are a few images of the animals that the plugin changes. If you want to see
 
 ## 🖥️ Commands  
 The main command is **/feelinganimals** but you can use **/fa** as an abbreviation.  
-Here is the list of the command thet the plugin provides.  
+Here is the list of the command that the plugin provides.  
  - **/fa help** It displays the help menu, with all the commands.  
  - **/fa version** It displays the version of the plugin.  
  - **/fa reload** It reloads the configuration file of the plugin.  
@@ -98,6 +99,6 @@ Here are all the images for all the mobs that the plugin currently modifies.
 ![Fox image](https://cdn-raw.modrinth.com/data/r7gLMvcl/images/91cd69d02b19ec5956809584c3c7bb390ef8cae5.gif)  
 ![Goat image](https://cdn-raw.modrinth.com/data/r7gLMvcl/images/0e0a5968c834e172419064ba6d02772ae7409672.gif)  
 
-## ❓ FAQ  
-You can use this plugin for any server that you like.  
-You are not obligated to credit the plugin if you will use it in a video or something like that, altough you can if you want.  
+## ❓ FAQ 
+You can use this plugin for any server that you like. 
+You are not obligated to credit the plugin if you will use it in a video or something like that, although you can if you want.
